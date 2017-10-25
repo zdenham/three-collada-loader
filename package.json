@@ -1,5 +1,5 @@
 {
-  "name": "three-collada-loader",
+  "name": "collada-loader-three",
   "version": "0.0.1",
   "description": "The Three.js collada loader extras package, published to npm",
   "main": "index.js",
@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DelvarWorld/three-collada-loader.git"
+    "url": "git+https://github.com/zdenham/three-collada-loader"
   },
   "keywords": [
     "three",
@@ -22,13 +22,13 @@
     "loader"
   ],
   "author": {
-    "name": "Andrew Ray",
-    "email": "me@andrewray.me",
-    "url": "http://andrewray.me"
+    "name": "Zac Denham",
+    "email": "zdenham@usc.edu",
+    "url": "zacharydenham.me"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/DelvarWorld/three-collada-loader/issues"
+    "url": "https://github.com/zdenham/three-collada-loader/issues"
   },
-  "homepage": "https://github.com/DelvarWorld/three-collada-loader#readme"
+  "homepage": "https://github.com/zdenham/three-collada-loader#readme"
 }
